@@ -1,0 +1,122 @@
+[
+    {
+        "quincena": 1,
+        "fecha": "2024-01-15",
+        "prima": false
+    },
+    {
+        "quincena": 2,
+        "fecha": "2024-01-31",
+        "prima": false
+    },
+    {
+        "quincena": 3,
+        "fecha": "2024-02-15",
+        "prima": false
+    },
+    {
+        "quincena": 4,
+        "fecha": "2024-02-29",
+        "prima": false
+    },
+    {
+        "quincena": 5,
+        "fecha": "2024-03-15",
+        "prima": false
+    },
+    {
+        "quincena": 6,
+        "fecha": "2024-03-27",
+        "prima": false
+    },
+    {
+        "quincena": 7,
+        "fecha": "2024-04-15",
+        "prima": false
+    },
+    {
+        "quincena": 8,
+        "fecha": "2024-04-30",
+        "prima": false
+    },
+    {
+        "quincena": 9,
+        "fecha": "2024-05-15",
+        "prima": false
+    },
+    {
+        "quincena": 10,
+        "fecha": "2024-05-31",
+        "prima": true
+    },
+    {
+        "quincena": 11,
+        "fecha": "2024-06-14",
+        "prima": false
+    },
+    {
+        "quincena": 12,
+        "fecha": "2024-06-28",
+        "prima": false
+    },
+    {
+        "quincena": 13,
+        "fecha": "2024-07-15",
+        "prima": false
+    },
+    {
+        "quincena": 14,
+        "fecha": "2024-07-31",
+        "prima": false
+    },
+    {
+        "quincena": 15,
+        "fecha": "2024-08-15",
+        "prima": false
+    },
+    {
+        "quincena": 16,
+        "fecha": "2024-08-30",
+        "prima": false
+    },
+    {
+        "quincena": 17,
+        "fecha": "2024-09-13",
+        "prima": false
+    },
+    {
+        "quincena": 18,
+        "fecha": "2024-09-30",
+        "prima": false
+    },
+    {
+        "quincena": 19,
+        "fecha": "2024-10-15",
+        "prima": false
+    },
+    {
+        "quincena": 20,
+        "fecha": "2024-10-31",
+        "prima": false
+    },
+    {
+        "quincena": 21,
+        "fecha": "2024-11-15",
+        "prima": false
+    },
+    {
+        "quincena": 22,
+        "fecha": "2024-11-29",
+        "prima": true
+    },
+    {
+        "quincena": 23,
+        "fecha": "2024-12-13",
+        "prima": false
+    },
+    {
+        "quincena": 24,
+        "fecha": "2024-12-13",
+        "prima": false
+    }
+]

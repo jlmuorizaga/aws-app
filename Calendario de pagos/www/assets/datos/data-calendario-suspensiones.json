@@ -1,0 +1,54 @@
+[
+    {
+        "fecha": "2024-01-01",
+        "descripcion": "Año nuevo"
+    },
+    {
+        "fecha": "2024-02-05",
+        "descripcion": "El primer lunes de febrero en conmemoración de la promulgación de la Constitución Política de los Estados Unidos Mexicanos"
+    },
+    {
+        "fecha": "2024-03-18",
+        "descripcion": "El tercer lunes de marzo en conmemoración del Natalicio de Benito Juárez García"
+    },
+    {
+        "fecha": "2024-03-28",
+        "descripcion": "Jueves Santo"
+    },
+    {
+        "fecha": "2024-03-29",
+        "descripcion": "Viernes Santo"
+    },
+    {
+        "fecha": "2024-05-01",
+        "descripcion": "Día del Trabajo"
+    },
+    {
+        "fecha": "2024-05-05",
+        "descripcion": "Batalla de Puebla"
+    },
+    {
+        "fecha": "2024-07-08",
+        "descripcion": "Día del trabajador del INEGI"
+    },
+    {
+        "fecha": "2024-09-16",
+        "descripcion": "Aniversario del inicio de la Guerra de Independencia de México"
+    },
+    {
+        "fecha": "2024-10-01",
+        "descripcion": "Transmisión del Poder Ejecutivo Federal"
+    },
+    {
+        "fecha": "2024-11-02",
+        "descripcion": "Día de los Muertos"
+    },
+    {
+        "fecha": "2024-11-18",
+        "descripcion": "El tercer lunes de noviembre en conmemoración del inicio de la Revolución Mexicana"
+    },
+    {
+        "fecha": "2024-12-25",
+        "descripcion": "Navidad"
+    }
+]
